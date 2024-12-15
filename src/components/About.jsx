@@ -24,7 +24,7 @@ function About() {
     // align-items:center;
     flex-direction:column;
     padding:20px;
-    height:250px;
+    min-height:260px;
     `
     const Item=styled.div`
     margin:5px;
